@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">三郎便當App</string>
+    <string name="title_home">選擇餐點</string>
+    <string name="title_dashboard">送貨地址</string>
+    <string name="title_notifications">網友好評</string>
+    <string name="spinner_title">數量</string>
+    <string-array name="number">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>桃園市中壢區</item>
+        <item>桃園市平鎮區</item>
+        <item>桃園市楊梅區</item>
+    </string-array>
+    <string-array name="road">
+        <item>民族路</item>
+        <item>新興路</item>
+        <item>中正路</item>
+    </string-array>
+
+
+</resources>

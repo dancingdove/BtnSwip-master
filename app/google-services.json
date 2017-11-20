@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "626261741862",
+    "firebase_url": "https://btnswip-master.firebaseio.com",
+    "project_id": "btnswip-master",
+    "storage_bucket": "btnswip-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626261741862:android:a6813711ea31b1e0",
+        "android_client_info": {
+          "package_name": "com.example.auser.btnswip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626261741862-2g6mp5k4eno50srabgs22kh2oc3vqcic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auser.btnswip",
+            "certificate_hash": "a1dcc023450a4d83390740dcc9432bff2a0bce48"
+          }
+        },
+        {
+          "client_id": "626261741862-18v3cllgo56p6c74gqt340j6vhou069o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKHspI_wHBJjCfy8ZVY4mF2sRQDnwz_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626261741862-18v3cllgo56p6c74gqt340j6vhou069o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
