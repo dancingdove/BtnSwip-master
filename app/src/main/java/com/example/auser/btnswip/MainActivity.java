@@ -41,15 +41,15 @@ public class MainActivity extends AppCompatActivity  implements ViewPager.OnPage
                         return fragment2;
                     case 2:
                         return fragment3;
-                    case 3:
-                        return fragment3;
+//                    case 3:
+//                        return fragment3;
                 }
                 return null;
             }
 
             @Override
             public int getCount() {
-                return 4;
+                return 3;
             }
         });
     }
